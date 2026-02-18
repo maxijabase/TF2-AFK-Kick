@@ -1,0 +1,13 @@
+"Phrases"
+{
+	"Kick_Warning"
+	{
+		"#format"	"{1:i}"
+		"en"		"Warning: If you do not move in {1} seconds, you will be kicked."
+	}
+
+	"Kick_Message"
+	{
+		"en"		"You were kicked for being AFK too long."
+	}
+}
